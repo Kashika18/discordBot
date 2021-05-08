@@ -1,5 +1,9 @@
 "Crisis affects us all in different ways. There is no right way to cope with stressful times, but there are things you can do to manage these emotions." With this in mind we have decided to make a discord bot, “Mindfulness”- Be kind to your mind.
 
+
+![image](https://user-images.githubusercontent.com/77044673/117552196-93a33980-b067-11eb-80d5-139ed3259809.png)
+
+
 The theme of our project being Mental Health Awarenes, 
  Mindfulness would provide with:
 
