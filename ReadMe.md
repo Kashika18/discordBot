@@ -3,6 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/77044673/117552196-93a33980-b067-11eb-80d5-139ed3259809.png)
 
+To add Mindfulness to your discord server follow the link: https://discord.com/channels/808785109334491196/840656642802057277/840683668455424000
+
 
 The theme of our project being Mental Health Awarenes, 
  Mindfulness would provide with:
