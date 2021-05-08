@@ -50,6 +50,12 @@ async def on_message(message):
     await message.channel.send(file=discord.File('help4.jpg'))
     await message.channel.send(file=discord.File('help5.jpg'))
     await message.channel.send(file=discord.File('help6.jpg'))
+  
+  if msg.startswith('*links'):
+    await message.channel.send('https://themindclan.com/')
+    await message.channel.send('Affordable mental health resources in India: https://docs.google.com/spreadsheets/d/10Ht1QnCZYoLdblCOIr05qF4tpfyuq_uXQ_dq3yjLueM/htmlview#gid=381934799')
+    await message.channel.send('List of mental health practitioners at nominal fee/free: https://docs.google.com/document/d/1uEeTDdu58z8nVLbBG8o1qY2xbOhlb9TRVx5COnw2ZiQ/mobilebasic')
+    await message.channel.send('Low cost support circles (Therapize): https://instagram.com/p/COAj6iMJtgz/')
 
 keep_alive()
 client.run(os.environ['token'])
