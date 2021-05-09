@@ -14,7 +14,13 @@ The theme of our project being Mental Health Awarenes,
 	3. tips and tricks to tackle stress and anxiety
 
 Tech Stack Used:
-	We have used discord.py library of python to make the discord bot and access its various functions. A discord bot was made and authorized using discord developer portal.Other libraries used in the code were os, requests and json to access content from the world wide web.
+	We have used **discord.py** library of python to make the discord bot and access its various functions. A discord bot was made and authorized using **discord developer portal**.Other libraries used in the code were os, requests and json to access content from the world wide web.
+	
+	
+References:
+		https://realpython.com/how-to-make-a-discord-bot-python/#responding-to-events
+		https://discordpy.readthedocs.io/en/stable/#getting-started
+	
 
 There are 5 .py files
 
